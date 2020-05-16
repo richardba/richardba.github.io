@@ -1,0 +1,19 @@
+---
+
+title: MP Smart
+subtitle: System Analysis
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: startup-framework.png
+thumbnail: startup-framework-thumbnail.png
+alt: image-alt
+project-date: April 2020
+client: commissioned by Green Tech Innovation
+category: Web Development
+description: Meu Prédio Smart is a conscious consumption companion app for common utilities.
+title-url: \#
+date-url: \#
+category-url: \#
+
+---

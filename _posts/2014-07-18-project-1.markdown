@@ -1,0 +1,17 @@
+---
+title: CC-Icons
+subtitle: Website Design & CSS Framework
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Licensed under the CC BY 4.0 License.
+category: Web Development
+description: Creative Commons Web Fonts is a suite of pictographic Creative Commons icons for easy scalable vector graphics, created and maintained by me.
+title-url: https://creativecommons.org/licenses/by/4.0/
+date-url: https://cc-icons.github.io/
+category-url: https://github.com/cc-icons/cc-icons
+---

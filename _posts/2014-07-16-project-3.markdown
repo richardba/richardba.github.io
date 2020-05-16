@@ -1,0 +1,18 @@
+---
+title: Pedra da Sereia
+subtitle: Website Design
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Hostel Pedra da Sereia
+category: Web Development
+description: Original design for Hostel Pedra da Sereia.
+title-url: http://www.hostelpedradasereia.com.br/
+date-url: http://www.hostelpedradasereia.com.br/
+category-url: http://www.hostelpedradasereia.com.br/
+
+---

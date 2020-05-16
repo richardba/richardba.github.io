@@ -1,0 +1,18 @@
+---
+title: World Render
+subtitle: Computer Graphics
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: treehouse.png
+thumbnail: treehouse-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Licensed under LGPLv3 license.
+category: Computer Framework
+description: World Render is a computer graphics application which procedurally generates a planet.
+title-url: https://www.gnu.org/licenses/lgpl-3.0.en.html
+date-url: https://github.com/worldrender/worldrender
+category-url: https://github.com/worldrender/worldrender
+
+---

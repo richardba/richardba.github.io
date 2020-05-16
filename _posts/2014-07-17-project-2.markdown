@@ -1,0 +1,17 @@
+---
+title: OpenTomb
+subtitle: Website Design & Git Management
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Licensed under LGPLv3 license.
+category: Web Development
+description: A Cross-Platform reimplementation of classic Tomb Raider 1—5 engines.
+title-url: https://www.gnu.org/licenses/lgpl-3.0.en.html
+date-url: https://opentomb.github.io/
+category-url: https://github.com/opentomb/OpenTomb
+---

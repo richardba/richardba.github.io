@@ -1,0 +1,14 @@
+<!-- Clients Aside -->
+    <aside class="clients">
+        <div class="container">
+            <div class="row">
+               {% for dev in site.devs %}
+                <div class="col-md-1 col-sm-1">
+                    <a href="#">
+                        <i class="devicon-{{dev.icon}}-plain"></i>
+                    </a>
+                </div>
+              {% endfor %}
+            </div>
+        </div>
+    </aside>

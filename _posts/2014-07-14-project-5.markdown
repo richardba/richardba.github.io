@@ -1,0 +1,19 @@
+---
+
+title: Warframe Wiki
+subtitle: Website Design
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: April 2020
+client: Wiki
+category: Web Development
+description: I'm currently developing a full fledged wiki for Warframe.
+title-url: \#
+date-url: \#
+category-url: \#
+
+---

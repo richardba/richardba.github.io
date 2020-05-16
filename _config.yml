@@ -1,0 +1,62 @@
+url: https://richardba.github.io
+baseurl:
+
+# Site settings
+title: richardba
+email: richardtrle@gmail.com
+description: "Welcome to my personal github page, my blog and portfolio!"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 75C1E3
+  secondary: 417199
+  secondary-dark: 333
+
+# Team names, titles and social links
+people:
+
+- name: Ricardo d'Oliveira
+  pic: 1
+  position: Analyst, Developer & Technologist
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: bitbucket
+    url: http://bitbucket.org/richardba
+  - title: facebook
+    url: http://facebook.com/richardtrle
+  - title: github
+    url: https://github.com/richardba
+  - title: linkedin
+    url: https://linkedin.com/in/richardtrle
+  - title: twitter
+    url: http://twitter.com/richardba
+
+devs:
+  - icon: android
+  - icon: bitbucket
+  - icon: cplusplus
+  - icon: gimp
+  - icon: git
+  - icon: github
+  - icon: heroku
+  - icon: html5
+  - icon: inkscape
+  - icon: java
+  - icon: javascript
+  - icon: jquery
+  - icon: linux
+  - icon: python
+  - icon: ruby
+  - icon: mysql
+  - icon: postgresql
+  - icon: typescript
+  - icon: windows8
+# Postal address (add as many lines as necessary)
+address:
+  - line: Avenida Luis Tarquinio, 926
+  - line: Salvador, BA 42700-000
+
+# Build settings
+markdown: kramdown
+permalink: pretty
