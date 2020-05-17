@@ -7,6 +7,7 @@ $(function() {
         },
         submitSuccess: function($form, event) {
           event.preventDefault();
+          contactForm = getElementById('contactForm');
           var response = grecaptcha.getResponse();
           var keyring = $.rot13;
           var key = "6YqDQ_tHN"+//DFL5a1
@@ -21,6 +22,7 @@ $(function() {
                 data: {"secret" : keyring(key), "response" : response, "remoteip":"localhost"},
                 contentType: 'application/x-www-form-urlencoded',
                 success: function(data) {
+                  contactForm.setAttribute('action',keyring({{form.url}}));
                   contactForm.submit();
                   contactForm.reset();
                   $('#overlay').toggle();
