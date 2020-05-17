@@ -7,7 +7,6 @@ $(function() {
         },
         submitSuccess: function($form, event) {
           event.preventDefault();
-          contactForm = getElementById('contactForm');
           var response = grecaptcha.getResponse();
           if(response.length == 0) {
           }
@@ -22,6 +21,7 @@ $(function() {
                   contactForm.setAttribute('action',keyring(formAction));
                   contactForm.submit();
                   contactForm.reset();
+                  contactForm.setAttribute('action','');
                   $('#overlay').toggle();
                }
             });
