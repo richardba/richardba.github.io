@@ -1,7 +1,5 @@
 $(function() {
 
-    contactForm.setAttribute('action',keyring(formAction));
-
     $("input,textarea").jqBootstrapValidation({
         preventSubmit: true,
         submitError: function($form, event, errors) {
@@ -9,6 +7,7 @@ $(function() {
         },
         submitSuccess: function($form, event) {
           event.preventDefault();
+          contactForm = getElementById('contactForm');
           var response = grecaptcha.getResponse();
           if(response.length == 0) {
           }
@@ -20,6 +19,7 @@ $(function() {
                 data: {"secret" : keyring(key), "response" : response, "remoteip":"localhost"},
                 contentType: 'application/x-www-form-urlencoded',
                 success: function(data) {
+                  contactForm.setAttribute('action',keyring(formAction));
                   contactForm.submit();
                   contactForm.reset();
                   $('#overlay').toggle();
