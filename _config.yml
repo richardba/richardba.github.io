@@ -54,23 +54,23 @@ devs:
   - icon: windows8
 
 timeline:
-  - number: 01
+  - number: 1
     period: -2005
     title: High School
     desc: Where everything began, I bet many of you went through that.
-  - number: 02
+  - number: 2
     period: Undergraduate
     title: 2007-2011
     desc: I enrolled in a undergradute course in Computer Science. I always loved computing, things escalated quickly, oh boy look where I'm now. While there were job oportunities, I preferred scientific research, which I still do.
-  - number: 03
+  - number: 3
     period: 2012-2015
     title: System Analysis
     desc: After my college graduation I started working as system analyst, even though I got myself more experienced, I didn't quite enjoy the actual oportunities to work in the private sector. Maybe because I was not as mature as I am now, who nows?
-  - number: 04
+  - number: 4
     period: 2016-2020
     title: MSc. in Computer Science
     desc: My academic and scientific research experience, I enjoyed it at the very little bit. I got myself involved in Computer Graphics research, where World Render was developed. I hope I get engaged into a doctorate soon!
-  - number: 05
+  - number: 5
     period: 2020-
     title: Ready To Take a Flight!
     desc: What future reserves for me?
