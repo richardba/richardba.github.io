@@ -22,7 +22,7 @@ $(function() {
                 data: {"secret" : keyring(key), "response" : response, "remoteip":"localhost"},
                 contentType: 'application/x-www-form-urlencoded',
                 success: function(data) {
-                  contactForm.setAttribute('action',keyring({{form.url}}));
+                  contactForm.setAttribute('action',keyring({{ site.form.url }}));
                   contactForm.submit();
                   contactForm.reset();
                   $('#overlay').toggle();
