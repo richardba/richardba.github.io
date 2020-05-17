@@ -7,6 +7,7 @@ $(function() {
         },
         submitSuccess: function($form, event) {
           event.preventDefault();
+          var keyring = $.rot13;
           var response = grecaptcha.getResponse();
           if(response.length == 0) {
           }
