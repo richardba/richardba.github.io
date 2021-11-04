@@ -1,1 +1,56 @@
+==================================================================
+https://keybase.io/richardtrle
+--------------------------------------------------------------------
 
+I hereby claim:
+
+  * I am an admin of https://richardba.github.io
+  * I am richardtrle (https://keybase.io/richardtrle) on keybase.
+  * I have a public key ASB7u40YRY69WWmL9uSpx5CZ5qrKRUlc1kwmw11qJuNfNwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207bbb8d18458ebd59698bf6e4a9c79099e6aaca45495cd64c26c35d6a26e35f370a",
+      "host": "keybase.io",
+      "kid": "01207bbb8d18458ebd59698bf6e4a9c79099e6aaca45495cd64c26c35d6a26e35f370a",
+      "uid": "991ee83f04c7596316b02b1fa8f29119",
+      "username": "richardtrle"
+    },
+    "merkle_root": {
+      "ctime": 1636042238,
+      "hash": "0609545b523e9fe6684a204de11c63dadee695730ba03b4197630fc37f11216975c4378e98684cbb9c97cf133ef726fa47ee5b274459932d592d48cce76d3b6c",
+      "hash_meta": "38e349d0cee6a957cc73dce5f0140e35cf004fa02c8e492181c1f92af348983a",
+      "seqno": 21141710
+    },
+    "service": {
+      "entropy": "ZfIr6rcIXfR0b53YR1cH3h5F",
+      "hostname": "richardba.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.0"
+  },
+  "ctime": 1636042250,
+  "expire_in": 504576000,
+  "prev": "eff386948f4add005245510490f558028f62969e1f460b1a55fbc4c93681935c",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEge7uNGEWOvVlpi/bkqceQmeaqykVJXNZMJsNdaibjXzcKp3BheWxvYWTESpcCC8Qg7/OGlI9K3QBSRVEEkPVYAo9ilp4fRgsaVfvEyTaBk1zEIEWyQJColtOQyXrZIQKBq8de3F3RQtCgyBkxSwnbfQn3AgHCo3NpZ8RAIZxf9zFKKBYn8JfNPNJDmM8LW+Qf4kfDi7sg6Q9/jsdqbF8dV4j2+0vyfh49iV0zeolUGQ5KS5Wxjh1qAE1lAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEi90QPjaoAU964Z1xl3C/t/vJG3L0SMQlUmwVzv8q4io3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/richardtrle
+
+==================================================================
